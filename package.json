@@ -1,0 +1,23 @@
+{
+  "repository": "github:nytm/nyt-wfvi-training/test",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "7.4.4",
+    "core-js": "2.6.5",
+    "express": "4.17.1",
+    "kyt-runtime": "1.0.0-alpha.a9b76018",
+    "prop-types": "15.7.2",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-hot-loader": "4.8.4",
+    "react-router-dom": "5.0.1",
+    "source-map-support": "0.5.10"
+  },
+  "devDependencies": {
+    "babel-preset-kyt-react": "1.0.0-alpha.a9b76018",
+    "kyt": "1.0.0-alpha.a9b76018"
+  },
+  "scripts": {
+    "dev": "kyt dev"
+  }
+}
