@@ -4,7 +4,7 @@
   "dependencies": {
     "@babel/runtime": "7.4.4",
     "core-js": "2.6.5",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "kyt-runtime": "1.0.0-alpha.a9b76018",
     "prop-types": "15.7.2",
     "react": "16.9.0",
